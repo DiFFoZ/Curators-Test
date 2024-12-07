@@ -17,7 +17,7 @@ Labels
 Rules
 [
         {
-                Action Allow
+                Action Block
                 Description Server hosted by DiFFoZ
                 Label Verified
                 Type ServerID
