@@ -1,0 +1,25 @@
+# https://github.com/Unturned-Datamining/Unturned-Datamining
+
+Name Unturned Datamining Server's
+IconURL https://avatars.githubusercontent.com/u/118498467?s=200&v=4
+Labels
+[
+        {
+                Name Verified
+                Text <color=green>Unturned Datamining Verified</color>
+        }
+        {
+                Name Fake
+                Text <color=red>Unturned Datamining Imposter</color>
+        }
+]
+
+Rules
+[
+        {
+                Action Allow
+                Description Server hosted by DiFFoZ
+                Type ServerID
+                Value 85568392930594705
+        }
+]
