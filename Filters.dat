@@ -19,7 +19,7 @@ Rules
 [
         {
                 Action Deny
-                Description Server NOT hosted by DiFFoZ
+                Description <color=red>Server NOT hosted by DiFFoZ</color>
                 Label Fake
                 Type ServerID
                 Value 85568392930594705
