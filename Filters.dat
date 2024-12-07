@@ -18,9 +18,9 @@ Labels
 Rules
 [
         {
-                Action Deny
-                Description <color=red>Server NOT hosted by DiFFoZ</color>
-                Label Fake
+                Action Allow
+                Description <color=green>Server NOT hosted by DiFFoZ</color>
+                Label Verified
                 Type ServerID
                 Value 85568392930594705
         }
